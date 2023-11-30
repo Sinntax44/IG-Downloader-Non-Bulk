@@ -1,5 +1,5 @@
 # IG-Downloader
-Bulk download Instagram stories
+Modified Bulk download Instagram stories
 
 This script will download stories of followed users posted in the past 24 hours. A logged in Instagram account is required to use this.
 
@@ -15,6 +15,7 @@ To periodically obtain stories from followed users, run this script at least eve
 # Special Thanks
 - https://github.com/CaliAlec/ChromeIGStory
 - https://github.com/mgp25/Instagram-API
+- https://github.com/dundua/IG-Downloader
 
 # License
 MIT
