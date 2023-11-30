@@ -1,7 +1,7 @@
 # IG-Downloader
 Modified Bulk download Instagram stories
 
-This script will download stories of followed users posted in the past 24 hours. A logged in Instagram account is required to use this.
+This script will download stories of a chosen user posted in the past 24 hours. A logged in Instagram account is required to use this.
 
 # Usage
     python3 main.py
